@@ -1,5 +1,5 @@
 """
-@author: Lisa DiSalvo & Gabriela Saenz
+@author: Lisa DiSalvo
 """
 from re import X
 import sys
