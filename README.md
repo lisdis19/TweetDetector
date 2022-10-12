@@ -1,7 +1,7 @@
 [![][1]][1]
 
 [1]: https://i.ibb.co/10VpLDT/logo-1.png
-"Tooltip for Jason's avatar"
+
 
 *TweetDetector* is a simple Twitter scraper. It detects in images utilizing YOLOv5 and labels according to an established corpus in our code. 
 
