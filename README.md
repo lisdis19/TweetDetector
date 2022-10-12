@@ -3,7 +3,7 @@
 [1]: https://i.ibb.co/10VpLDT/logo-1.png
 
 
-*TweetDetector* is a simple Twitter scraper. It detects in images utilizing YOLOv5 and labels according to an established corpus in our code. 
+*TweetDetector* is a simple Twitter scraper. It detects  images utilizing YOLOv5 and labels according to an established corpus in our code. 
 
 In order to use this program a Jupyter Notebook is included in this repository with a step-by-step instruction to ensure the program runs smoothly.
 
