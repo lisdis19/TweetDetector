@@ -1,4 +1,4 @@
-[![ ][1]][1]
+[![][1]][1]
 
 [1]: https://i.ibb.co/10VpLDT/logo-1.png
 "Tooltip for Jason's avatar"
