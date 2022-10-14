@@ -1,8 +1,7 @@
 pandas>=1.4.3
 torch>=1.8.0
 torchvision>=0.8.1
-import tweepy>=4.10.0
-import nest_asyncio>=1.5.1
-import urllib.request>=1.26.10
-import twint>=2.1.21
-import PySimpleGUI>=4.60.1
+tweepy>=4.10
+nest_asyncio>=1.5.1
+twint>=2.1.21
+PySimpleGUI>=4.60.1
